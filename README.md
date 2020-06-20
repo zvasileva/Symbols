@@ -1,1 +1,1 @@
-# Symbols
+[![Build status](https://ci.appveyor.com/api/projects/status/vxye736jaiwtjv0j?svg=true)](https://ci.appveyor.com/project/zvasileva/symbols)
